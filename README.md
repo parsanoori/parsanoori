@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-#### Currently studying CE on SBU
+#### Studied CE at SBU
 
 - 🧑‍💻 I'm a C++ enthusiast
 - ʕ◔ϖ◔ʔ Newly a Gopher
-- 🧑‍💻 Into cryptocurrencies and blockchain world
+- 🧑‍💻 Into cryptocurrencies, blockchain and cryptography world
 - 🔢 Loving mathematics and related stuff
 - 🧠 Into philosophy
 - 📫 How to reach me:
