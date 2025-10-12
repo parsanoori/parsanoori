@@ -2,8 +2,8 @@
 
 #### Studied CE at SBU
 
+- ʕ◔ϖ◔ʔ Professional Gopher
 - 🐍 Skilled in Python
-- ʕ◔ϖ◔ʔ Newly a Gopher
 - 🧑‍💻 A C++ enthusiast
 - 🧑‍💻 Into cryptocurrencies, blockchain and cryptography world
 - 🔢 Loving mathematics and related stuff
