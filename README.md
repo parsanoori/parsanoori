@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-#### Studied CE at SBU
+#### Studying AI at SBU
+#### Mid-level Golang developer at [Kuknos](https://kuknos.ir)
 
 - ʕ◔ϖ◔ʔ Professional Gopher
 - 🐍 Skilled in Python
